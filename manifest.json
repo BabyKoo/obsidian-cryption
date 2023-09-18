@@ -3,7 +3,7 @@
 	"name": "File Cryption",
 	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Be used for encrypting and decrypting automatically the note files as editting.",
+	"description": "Be used for encrypting and decrypting the note files as one key pressing. ",
 	"author": "Hugo Koo",
 	"authorUrl": "https://github.xuedong.xyz",
 	"fundingUrl": "https://xuedong.xyz",
